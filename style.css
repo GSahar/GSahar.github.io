@@ -4,13 +4,13 @@ a{text-decoration: none;}
 
 /*Структура сайта*/
 div.mid{width: 1000px; margin: 0 auto;}
-div.header{background: #c89e6c url(images/Palub.png);}
+div.header{background: #c89e6c url(../images/Palub.png);}
 
 /*Шапка сайта*/
 div.topmenu{float: right; height: 70px; line-height: 70px; }
 .topmenu a{margin: 0 0 0 10px; color: #2e3928;}
 .topmenu a:hover{color: #fff;}
-.afisha{padding: 20px 50px 10px 50px; background: #d8cdc1 url(images/headline.png) repeat-x; border-radius: 30px;border: 2px solid #502e24; margin: 0 0 5px 0px;}
+.afisha{padding: 20px 50px 10px 50px; background: #d8cdc1 url(../images/headline.png) repeat-x; border-radius: 30px;border: 2px solid #502e24; margin: 0 0 5px 0px;}
 .afisha img{float: left;}
 .afisha h3{font-size: 24px; font-weight: normal; text-align: center; color: #370000;}
 
@@ -20,7 +20,7 @@ div.topmenu{float: right; height: 70px; line-height: 70px; }
 		border-radius: 3px; box-shadow: 2px 2px 7px 2px #777; text-shadow: 0px 0px 3px #752300;}
 .afisha a:hover{background: #e7c37c; border: 1px solid #723c1d; text-shadow: 0px 0px 3px #e7c37c; color: #723c1d;}	
 
-.afisha2{padding: 20px 50px 10px 50px; background: #d8cdc1 url(images/headline.png) repeat-x; border-radius: 30px;border: 2px solid #502e24; margin: 0 0 5px 0px;}
+.afisha2{padding: 20px 50px 10px 50px; background: #d8cdc1 url(../images/headline.png) repeat-x; border-radius: 30px;border: 2px solid #502e24; margin: 0 0 5px 0px;}
 .afisha2 img{float: left;}
 .afisha2 h3{font-size: 20px; font-weight: normal;  color: #370000;}
 
