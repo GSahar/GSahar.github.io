@@ -4,7 +4,7 @@ a{text-decoration: none;}
 
 /*Структура сайта*/
 div.mid{width: 1000px; margin: 0 auto;}
-div.header{background: #c89e6c url(images/palub.png);}
+div.header{background: #c89e6c url(images/Palub.png);}
 
 /*Шапка сайта*/
 div.topmenu{float: right; height: 70px; line-height: 70px; }
