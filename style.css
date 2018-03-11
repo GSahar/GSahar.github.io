@@ -68,15 +68,30 @@ div.footer span {margin: 0 20px;}
 .clear{clear: both;}
 
 /*Адаптивный дизайн*/
-@media screen and (max-width: 999px){
+@media screen and (max-width: 1000px){
 	div.mid{width: 95%;}
 	div.menu{width: 95%;}
 	div.block{width: 45%;}
+	div.block:nth-of-type(even){width: 45%;}
 	div.block1{width: 95%;}
 	div.afisha h3{font-size: 18px;}
 	div.afisha2 h3{font-size: 16px;}	
 	div.anons img{width: 100%;}
-	div.block:nth-of-type(even){width: 45%;}
+	
+	.anons h3{font-size: 18px;
+
+}
+
+@media screen and (max-width: 640px){
+	div.mid{width: 95%;}
+	div.menu{width: 95%;}
+	div.block{width: auto; float: none; margin-bottom: 40px;}
+	div.block:nth-of-type(even){width: auto;float: none; margin-bottom: 40px;}
+	div.block1{width: 95%;}
+	div.afisha h3{font-size: 18px;}
+	div.afisha2 h3{font-size: 16px;}	
+	div.anons img{width: 100%;}
+	
 	.anons h3{font-size: 18px;
 
 }
