@@ -5,9 +5,7 @@ a:hover{transition: all 0.5s;}
 
 /*Структура сайта*/
 div.mid{width: 1000px; margin: 0 auto;}
-div.header{background:  
-radial-gradient(#fff, #c89e6c) url(../images/Palub.png);
-background-clip: #c89e6c ;
+div.header{background: url(../images/Palub.png);
 }
 /*url(../images/Palub.png);*/
 div.footer{margin: 20px 0; text-align: center; text-transform: uppercase;}
