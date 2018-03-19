@@ -51,8 +51,8 @@ div.topmenu{float: right; height: 70px; line-height: 70px; }
 .anons p { text-shadow: 1px 1px 0 #fff; }
 
 .fon1{background: #d8cdc1; border: 1px solid #ccc; border-top: none; padding: 40px; border-radius: 30px;border: 2px solid #502e24;}
-.fon1 hr.Line {border: none; border-bottom: 1px dashed #996633 ; height: 0; margin:  40px}
-.block1{width: 920px; float: left;}
+.fon1 hr.Line {border: none; border-bottom: 1px dashed #996633 ; height: 0; margin:  40px;}
+.block1{width: 920px; float: left;margin:  5px 5px}
 .block1 img{float: left; position: relative;}
 .block1 h3{font-size: 24px; font-weight: normal; text-align: center; color: #370000;}
 .block1 h2{font-size: 18px; font-weight: normal; color: #370000;}
